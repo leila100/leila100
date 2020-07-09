@@ -1,4 +1,12 @@
-### Hi there 👋
+- Tenacious, with a reputation for taking on and completing all tasks to the best of my ability.
+- Quality focused, with a software development style that incorporates unit testing, continuous integration, and other modern development practices to create software that is high quality and maintainable over time.
+- Self-managing and self-motivated, able to plan, prioritize, and accomplish tasks without micromanagement.
+- Articulate and comfortable in varied teamwork environments.
+- Dedicated to embracing and learning new technologies.
+
+* 2+ years working as a Teaching Assistant in a university's Computer Science Department while pursuing a Master's degree. An additional 2+ years working in an oil company's IT team has helped develop communication and management skills necessary to succeed in a team environment. 
+
+* Joined Lambda School to relaunch career in technology, with a strong motivation and will to succeed and help others.
 
 <!--
 **leila100/leila100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

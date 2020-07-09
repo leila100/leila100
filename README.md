@@ -10,7 +10,7 @@
 
 *****
 :computer: https://www.linkedin.com/in/leila-berrouayel/ <br>
-:computer: https://www.linkedin.com/in/leila-berrouayel <br>
+:computer: https://leilaberrouayel.me/ <br>
 :email: nb.leila10@gmail.com
 
 <!--
